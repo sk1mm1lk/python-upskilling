@@ -1,0 +1,203 @@
+- [ ] 1:   Getting started with Python Language 
+- [ ] 2:   Python Data Types
+- [ ] 3:   Indentation
+- [ ] 4:   Comments and Documentation
+- [ ] 5:   Date and Time
+- [ ] 6:   Date Formatting
+- [ ] 7:   Enum
+- [ ] 8:   Set
+- [ ] 9:   Simple Mathematical Operators
+- [ ] 10:  Bitwise Operators
+- [ ] 11:  Boolean Operators
+- [ ] 12:  Operator Precedence
+- [ ] 13:  Variable Scope and Binding 
+- [ ] 14:  Conditionals
+- [ ] 15:  Comparisons
+- [ ] 16:  Loops
+- [ ] 17:  Arrays 
+- [ ] 18:  Multidimensional arrays
+- [ ] 19:  Dictionary 
+- [ ] 20:  List
+- [ ] 21:  List comprehensions 
+- [ ] 22:  List slicing (selecting parts of lists)
+- [ ] 23:  groupby() 
+- [ ] 24:  Linked lists 
+- [ ] 25:  Linked List Node
+- [ ] 26:  Filter 
+- [ ] 27:  Heapq
+- [ ] 28:  Tuple 
+- [ ] 29:  Basic Input and Output
+- [ ] 30:  Files & Folders I/O 
+- [ ] 31:  os.path 
+- [ ] 32:  Iterables and Iterators
+- [ ] 33:  Functions
+- [ ] 34:  Defining functions with list arguments 
+- [ ] 35:  Functional Programming in Python 
+- [ ] 36:  Partial functions 
+- [ ] 37:  Decorators
+- [ ] 38:  Classes 
+- [ ] 39:  Metaclasses 
+- [ ] 40:  String Formatting 
+- [ ] 41:  String Methods
+- [ ] 42:  Using loops within functions 
+- [ ] 43:  Importing modules 
+- [ ] 44:  Difference between Module and Package 
+- [ ] 45:  Math Module 
+- [ ] 46:  Complex math 
+- [ ] 47:  Collections module 
+- [ ] 48:  Operator module 
+- [ ] 49:  JSON Module 
+- [ ] 50:  Sqlite3 Module 
+- [ ] 51:  The os Module 
+- [ ] 52:  The locale Module 
+- [ ] 53:  Itertools Module 
+- [ ] 54:  Asyncio Module 
+- [ ] 55:  Random module 
+- [ ] 56:  Functools Module
+- [ ] 57:  The dis module 
+- [ ] 58:  The base64 Module 
+- [ ] 59:  Queue Module 
+- [ ] 60:  Deque Module 
+- [ ] 61:  Webbrowser Module 
+- [ ] 62:  tkinter 
+- [ ] 63:  pyautogui module 
+- [ ] 64:  Indexing and Slicing 
+- [ ] 65:  Plotting with Matplotlib 
+- [ ] 66:  graph-tool 
+- [ ] 67:  Generators 
+- [ ] 68:  Reduce 
+- [ ] 69:  Map Function 
+- [ ] 70:  Exponentiation 
+- [ ] 71:  Searching 
+- [ ] 72:  Sorting, Minimum and Maximum 
+- [ ] 73:  Counting 
+- [ ] 74:  The Print Function 
+- [ ] 75:  Regular Expressions (Regex) 
+- [ ] 76:  Copying data 
+- [ ] 77:  Context Managers (“with” Statement) 
+- [ ] 78:  The `__name__` special variable 
+- [ ] 79:  Checking Path Existence and Permissions 
+- [ ] 80:  Creating Python packages 
+- [ ] 81:  Usage of "pip" module: PyPI Package Manager 
+- [ ] 82:  pip: PyPI Package Manager 
+- [ ] 83:  Parsing Command Line arguments 
+- [ ] 84:  Subprocess Library 
+- [ ] 85:  setup.py 
+- [ ] 86:  Recursion 
+- [ ] 87:  Type Hints 
+- [ ] 88:  Exceptions 
+- [ ] 89:  Raise Custom Errors / Exceptions 
+- [ ] 90:  Commonwealth Exceptions 
+- [ ] 91:  urllib 
+- [ ] 92:  Web scraping with Python 
+- [ ] 93:  HTML Parsing 
+- [ ] 94:  Manipulating XML 
+- [ ] 95:  Python Requests Post 
+- [ ] 96:  Distribution 
+- [ ] 97:  Property Objects 
+- [ ] 98:  Overloading 
+- [ ] 99:  Polymorphism 
+- [ ] 100: Method Overriding 
+- [ ] 101: User-Defined Methods 
+- [ ] 102: String representations of class instances: `__str__` and `__repr__` methods 
+- [ ] 103: Debugging 
+- [ ] 104: Reading and Writing CSV 
+- [ ] 105: Writing to CSV from String or List 
+- [ ] 106: Dynamic code execution with `exec` and `eval` . 
+- [ ] 107: PyInstaller - Distributing Python Code 
+- [ ] 108: Data Visualization with Python 
+- [ ] 109: The Interpreter (Command Line Console) 
+- [ ] 110: `*args` and `**kwargs` 
+- [ ] 111: Garbage Collection 
+- [ ] 112: Pickle data serialisation 
+- [ ] 113: Binary Data
+- [ ] 114: Idioms 
+- [ ] 115: Data Serialization 
+- [ ] 116: Multiprocessing 
+- [ ] 117: Multithreading 
+- [ ] 118: Processes and Threads
+- [ ] 119: Python concurrency 
+- [ ] 120: Parallel computation 
+- [ ] 121: Sockets 
+- [ ] 122: Websockets 
+- [ ] 123: Sockets And Message Encryption/Decryption Between Client and Server
+- [ ] 124: Python Networking 
+- [ ] 125: Python HTTP Server 
+- [ ] 126: Flask 
+- [ ] 127: Introduction to RabbitMQ using AMQPStorm 
+- [ ] 128: Descriptor 
+- [ ] 129: tempfile NamedTemporaryFile 
+- [ ] 130: Input, Subset and Output External Data Files using Pandas 
+- [ ] 131: Unzipping Files 
+- [ ] 132: Working with ZIP archives 
+- [ ] 133: Getting start with GZip 
+- [ ] 134: Stack 
+- [ ] 135: Working around the Global Interpreter Lock (GIL) 
+- [ ] 136: Deployment 
+- [ ] 137: Logging 
+- [ ] 138: Web Server Gateway Interface (WSGI) 
+- [ ] 139: Python Server Sent Events 
+- [ ] 140: Alternatives to switch statement from other languages 
+- [ ] 141: List destructuring (aka packing and unpacking) 
+- [ ] 142: Accessing Python source code and bytecode 
+- [ ] 143: Mixins 
+- [ ] 144: Attribute Access 
+- [ ] 145: ArcPy 
+- [ ] 146: Abstract Base Classes (abc) 
+- [ ] 147: Plugin and Extension Classes 
+- [ ] 148: Immutable datatypes(int, float, str, tuple and frozensets) 
+- [ ] 149: Incompatibilities moving from Python 2 to Python 3 
+- [ ] 150: Python 2 to 3 tool 
+- [ ] 151: Non-official Python implementations 
+- [ ] 152: Abstract syntax tree 
+- [ ] 153: Unicode and bytes 
+- [ ] 154: Python Serial Communication (pyserial) 
+- [ ] 155: Neo4j and Cypher using Py2Neo 
+- [ ] 156: Basic Curses with Python 
+- [ ] 157: Templates in python 
+- [ ] 158: Pillow 
+- [ ] 159: The pass statement 
+- [ ] 160: CLI subcommands with precise help output 
+- [ ] 161: Database Access 
+- [ ] 162: Connecting Python to SQL Server 
+- [ ] 163: PostgreSQL 
+- [ ] 164: Python and Excel 
+- [ ] 165: Turtle Graphics 
+- [ ] 166: Python Persistence 
+- [ ] 167: Design Patterns 
+- [ ] 168: hashlib 
+- [ ] 169: Creating a Windows service using Python 
+- [ ] 170: Mutable vs Immutable (and Hashable) in Python 
+- [ ] 171: configparser 
+- [ ] 172: Optical Character Recognition 
+- [ ] 173: Virtual environments 
+- [ ] 174: Python Virtual Environment - virtualenv 
+- [ ] 175: Virtual environment with virtualenvwrapper 
+- [ ] 176: Create virtual environment with virtualenvwrapper in windows 
+- [ ] 177: sys . 
+- [ ] 178: ChemPy - python package 
+- [ ] 179: pygame 
+- [ ] 180: Pyglet 
+- [ ] 181: Audio 
+- [ ] 182: pyaudio 
+- [ ] 183: shelve 
+- [ ] 184: IoT Programming with Python and Raspberry PI 
+- [ ] 185: kivy - Cross-platform Python Framework for NUI Development 
+- [ ] 186: Pandas Transform: Preform operations on groups and concatenate the results 
+- [ ] 187: Similarities in syntax, Differences in meaning: Python vs. JavaScript 
+- [ ] 188: Call Python from C# 
+- [ ] 189: ctypes
+- [ ] 190: Writing extensions
+- [ ] 191: Python Lex-Yacc
+- [ ] 192: Unit Testing 
+- [ ] 193: py.test
+- [ ] 194: Profiling
+- [ ] 195: Python speed of program
+- [ ] 196: Performance optimization
+- [ ] 197: Security and Cryptography
+- [ ] 198: Secure Shell Connection in Python
+- [ ] 199: Python Anti-Patterns
+- [ ] 200: Common Pitfalls
+- [ ] 201: Hidden Features
+
+Source: https://www.linkedin.com/pulse/learn-python-programming-checklist-nditah-samweld/

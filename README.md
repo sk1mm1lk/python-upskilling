@@ -1,2 +1,5 @@
 # python-upskilling-aut-rnd
-A repository dedicated for Python upskilling needed for an AUT Research and Development paper.
+This repository is dedicated for my university paper for Research and Development and will be hosting the Python upskilling needed.
+
+## Table of contents
+- To be completed
